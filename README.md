@@ -118,13 +118,3 @@ pip install -r requirements.txt
 2. **Trigger Rescue Actions:** Watch automatic price drops and notifications
 3. **Food Bank Coordination:** Schedule pickup for remaining items
 4. **Impact Dashboard:** Real-time metrics of waste prevented
-
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
